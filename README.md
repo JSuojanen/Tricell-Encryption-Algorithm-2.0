@@ -12,3 +12,9 @@ Detta repository innehåller ett flödesschema som beskriver steg-för-steg-proc
 2. **Dela upp i sifferpar** – Delar upp sekvensen i par om två siffror.
 3. **Översätt med infogat alfabet** – Mappar sifferparen mot tecken.
 4. **Lägg till mellanslag i meddelandet** – Formaterar meddelandet för läsbarhet.
+
+
+### Projektmedlemmar
+**Lucifer
+**McLovin
+**Flambae
