@@ -15,6 +15,6 @@ Detta repository innehåller ett flödesschema som beskriver steg-för-steg-proc
 
 
 ### Projektmedlemmar
-1.**Lucifer**
-2.**McLovin**
-3.**Flambae**
+1.**Lucifer*
+2.**McLovin*
+3.**Flambae*
